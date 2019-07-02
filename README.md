@@ -1,1 +1,1 @@
-# DataMiningKemansCluster
+# DataMiningK-meansCluster
